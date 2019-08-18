@@ -1,0 +1,19 @@
+name: env
+
+dependencies:
+- python=3.6
+- notebook=5.5
+- jupyter_dashboards
+
+- pandas
+- wordcloud
+- matplotlib
+
+channels:
+- conda-forge
+- default
+
+
+
+
+
